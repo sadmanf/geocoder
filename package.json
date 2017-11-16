@@ -1,0 +1,15 @@
+{
+  "name": "buzzfeed",
+  "version": "1.0.0",
+  "description": "Sample assignment",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadman Fahmid",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
