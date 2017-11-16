@@ -1,6 +1,6 @@
 Hello there :)
 
-In order to run the program, issue the following commands:
+In order to run the program, clone the repo and issue the following commands:
 	npm install
 	npm start
 
